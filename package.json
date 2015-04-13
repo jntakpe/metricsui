@@ -1,0 +1,26 @@
+{
+  "name": "metricsui",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-usemin": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-minify-html": "latest",
+    "gulp-uglify": "latest",
+    "gulp-flatten": "latest",
+    "gulp-ng-annotate": "latest",
+    "gulp-rev": "latest",
+    "gulp-browserify": "latest",
+    "xml2js": "latest",
+    "wiredep": "latest",
+    "run-sequence": "latest"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
